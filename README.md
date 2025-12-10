@@ -1,2 +1,2 @@
 # HW36
-main progect
+main project
